@@ -33,7 +33,7 @@ A Node.js and Express.js application to manage school data using MongoDB. The ap
 1. Clone the repository:
    ```bash
    git clone https://github.com/Chinmay1635/Node-JS-assignment.git
-   cd school-management-api
+   cd Node-JS-assignment
    ```
 
 2. Install dependencies:
@@ -128,6 +128,4 @@ Use [Postman](https://www.postman.com/) to test the endpoints:
 - MongoDB for database support
 - Express.js for the web framework
 - Vercel for deployment hosting
-```
 
----
